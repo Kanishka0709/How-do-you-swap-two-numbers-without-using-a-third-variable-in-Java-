@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main{
+public class Main{ 
   public static void main(String[] args){
   int a=35;
     int b=45;
